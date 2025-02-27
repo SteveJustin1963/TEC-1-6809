@@ -1,7 +1,7 @@
 TEC-1 using 6809 CPU
 
 
-Yes, Motorola developed the **HD6309**, a **compatible** but **enhanced** version of the **6809**, which includes some features similar to the **6801**, such as additional integrated functions. However, there is **no direct equivalent of the 6801 with 6809 architecture**—you would still need external peripherals.
+ Motorola developed the **HD6309**, a **compatible** but **enhanced** version of the **6809**, which includes some features similar to the **6801**, such as additional integrated functions. However, there is **no direct equivalent of the 6801 with 6809 architecture**—so we would still need external peripherals.
 
 ---
 
