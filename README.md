@@ -18,9 +18,9 @@ TEC-1 using 6809 CPU
 ---
 
 ### **6809 + 6801 Features**
-If you're looking for a **6809 with integrated peripherals (like the 6801)**, you’ll need **external chips** because:
+If we look for a **6809 with integrated peripherals (like the 6801)**, we’ll need **external chips** because:
 1. The **6809 and HD6309** have no built-in **serial I/O, timers, or RAM** like the 6801.
-2. To match a **6801**, you can combine a **6809 with peripheral chips** like:
+2. To match a **6801**, we can combine a **6809 with peripheral chips** like:
    - **MC6821 (PIA - Peripheral Interface Adapter)** for parallel I/O.
    - **MC6850 (ACIA - Asynchronous Communication Interface Adapter)** for serial I/O.
    - **MC6840 (Timer IC)** for timers.
@@ -29,7 +29,8 @@ If you're looking for a **6809 with integrated peripherals (like the 6801)**, yo
 ---
 
 ### **Closest Option: 6309 + External Peripherals**
-If you want **6809 performance with 6801-like integration**, your best bet is:
+If we want **6809 performance with 6801-like integration**, so best bet is:
 - **HD6309 (for performance, registers, and extended instructions).**
 - **External support chips (6821, 6850, RAM/ROM).**
-- This gives you the best of **6801-style integration** with **6809 performance.**
+- This gives use the best of **6801-style integration** with **6809 performance.**
+- btw the Tandy CoCo 3 has this chip!
